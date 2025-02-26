@@ -21,9 +21,13 @@ This application allows users to:
 
 ## Features
 ✅ Persistent task storage – Saves tasks to tasks.txt
+
 ✅ Task prioritization – Sort tasks by priority (LOW, MEDIUM, HIGH)
+
 ✅ Due dates support – Add and display due dates for tasks
+
 ✅ Undo deletion – Recover the last deleted task
+
 ✅ User-friendly CLI – Simple and interactive
 
 ## 📝 Usage Guide
